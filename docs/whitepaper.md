@@ -4,7 +4,7 @@ title: "Multiverse of gregs - the Missing Whitepaper"
 permalink: /whitepaper/
 ---
 
-![](/images/multiverse.jpeg "greg-multiverse")
+![](/whitepaper/images/multiverse.jpeg "greg-multiverse")
 
 Author: __Army greg__ [@armygreg9](https://twitter.com/armygreg9)
 
@@ -16,7 +16,7 @@ Status: *Unofficial, not reviewed by greg yet*
 Together with [Matt Esparza](https://twitter.com/matthewesp), greg created the Multiverse of greg (Twitter: [@gregmultiverse](https://twitter.com/gregmultiverse), OpenSea: [MultiverseOfGreg](https://opensea.io/collection/multiverse-of-gregs)) consisting of greg himself and 153 different greg-derived characters.
 
 The greg phenomenon is at the intersection of Twitter, NFTs, and Trolling:
-![](/images/venn-diagram.png "venn diagram")
+![](/whitepaper/images/venn-diagram.png "venn diagram")
 
 
 ## The Multiverse of greg
