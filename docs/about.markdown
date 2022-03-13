@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[The Multiverse of greg unofficial whitepaper](/whitepaper/)
+[The Multiverse of greg unofficial whitepaper](/multiverse/whitepaper)
